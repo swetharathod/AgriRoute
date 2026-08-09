@@ -17,6 +17,3 @@ https://agri-route-8gvr.vercel.app
 - Real-time map route visualization across Telangana
 - Delivery creation, tracking and status updates
 - Projected 25-30% reduction in crop spoilage
-
-## 👥 Team
-Developed as part of VNRVJIET final year project - Batch B5
